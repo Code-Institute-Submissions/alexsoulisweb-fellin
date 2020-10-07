@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, abort
 from forms import SignUpForm, LoginForm, EditPetForm
 from flask import session, redirect, url_for
