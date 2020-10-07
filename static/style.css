@@ -1,0 +1,13 @@
+#title {
+    padding: 10px;
+    color: gold;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
