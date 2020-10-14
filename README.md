@@ -3,6 +3,16 @@ The main purpose of this web app is to connect users to adopte animals. You will
 You may also log in to the website and be able to modify the profile of each cat or dogs. You just need to sign up and log in. 
 
 
+User Stories
+list of user stories.
+
+Register a User: The user clicks on the sign up link  it takes them to the registration page where they fill out the mandatory fields click register then saves their details to the database and logs them in.
+
+User Login: An existing user can click on the login link enter the information they registered with and it will log them into the page.
+
+
+Update fellin Profile: when the user clicks on the image then they will have the possibility of changing the fellin details and delete the profile.
+
 Design 
  Color Scheme
 The main color used white because I wanted something doesn’t stand out to let the pictures to be put forward.
